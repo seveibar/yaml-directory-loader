@@ -1,0 +1,15 @@
+{
+  "name": "yaml-directory-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Severin Ibarluzea",
+  "license": "MIT",
+  "dependencies": {
+    "recursive-readdir": "^2.2.1",
+    "yamljs": "^0.3.0"
+  }
+}
